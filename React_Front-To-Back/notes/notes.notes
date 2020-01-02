@@ -1,0 +1,31 @@
+What is React?
+React is a client-side JavaScript library.
+It runs on the clients machine as opposed to the server.
+Used to build dynamic user interfaces.
+Renders everything as a "component"
+Often referred to as the "V" in MVC. (*Model*, *View*, *Controller*)
+
+MVC is a design pattern
+The model deals with data
+The controller deals with the data and sends it to the view.
+React is referred to as the View.
+
+React is technically a library
+Is Often called a framework
+Is comparable to other frameworks
+Tools can be added for routing, etc.
+Closer to Angular/Vue than jQuery.
+
+Why learn React?
+Organizes your UI
+Reusability
+Scalability & Efficiency
+Lighter than most other frameworks
+Helps you *GET A JOB*
+
+Browser Extensions
+*React Dev Tools*
+*Redux Dev Tools*
+
+
+

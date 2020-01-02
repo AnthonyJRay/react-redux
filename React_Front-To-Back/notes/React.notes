@@ -1,0 +1,40 @@
+// Public Folder
+// Inside the public folder is an index.html file, with an empty div with the id of root.
+// The root div is important because with is where the main react component is rendered.
+// This is where everything is going to be output in the DOM or the Browser.
+
+// Src folder
+// The src folder is where we build our application.
+// This is where we put all of our components etc.
+
+// ReactDOM has a method caled render()
+
+// What is JSX?
+// In JSX you cannot use the Class attribute, with JSX you use className.
+// Nor can you use the for attribute, for example on a label tag. Must use htmlFor
+// When you return, you must return a single parent element.
+// Cannot return multiple elements within the same class component.
+
+// JSX Expressions
+// In the render, above the return, you can put any JavaScript that you want.
+// Inside you can use variables, expressions, and conditionals inside a pair of {Curly Braces}.
+
+
+// You want to start your component filenames with a capital letter. e.g. Contacts.js
+// When adding props to a functional component, you don't use the "this" keyword.
+// Prop types and Type checking.
+// You can give components default props. Anything passed in will override your default props.
+// If you remove any props you passed in, it will revert back to your default props.
+
+// You can add inline CSS styling inside of tags with double curly braces.
+// <h1 style={{color: 'red'}}>
+// The value must be in quotes.
+// Don't forget the ending >.
+// You can add in additional styling with a comma.
+// You must use camelcase, unlike regular CSS.
+
+//    <h1 style={{ color: 'red', fontSize: '50px' }}>
+
+
+// You can also create a seperate stylesheet for each component.
+// import it into your component file at the top.

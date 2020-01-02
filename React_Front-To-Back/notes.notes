@@ -1,6 +1,0 @@
-What is React?
-React is a client-side JavaScript library.
-It runs on the clients machine as opposed to the server.
-Used to build dynamic user interfaces.
-Renders everything as a "component"
-Often referred to as the "V" in MVC. (Model, View, Controller)
