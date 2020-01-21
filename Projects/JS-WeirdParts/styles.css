@@ -1,0 +1,10 @@
+.parent {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  margin-left: 10%;
+}
+
+.z {
+  padding: 16px;
+}
